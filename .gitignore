@@ -1,0 +1,9 @@
+# slicer and printer output
+*.gcode
+*.3mf
+
+# editor and operating system files
+*~
+*.bak
+.DS_Store
+Thumbs.db

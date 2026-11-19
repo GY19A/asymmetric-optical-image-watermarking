@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these design files, please cite the paper."
+title: "Asymmetric Optical Image Watermarking"
+authors:
+  - family-names: "Yang"
+    given-names: "Guang"
+    affiliation: "University of California, Los Angeles"
+license: BSD-2-Clause
+repository-code: "https://github.com/GY19A/asymmetric-optical-image-watermarking"
+preferred-citation:
+  type: generic
+  title: "Asymmetric Optical Image Watermarking"
+  authors:
+    - family-names: "Yang"
+      given-names: "Guang"
+      affiliation: "University of California, Los Angeles"
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2611.23350"
+  url: "https://arxiv.org/abs/2611.23350"
